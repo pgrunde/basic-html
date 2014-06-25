@@ -1,0 +1,19 @@
+p {
+    font-size: 20
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width:500px
+}
+
+img {
+    width: 500px;
+    height: 400px
+}
+
+div p {
+    color: deeppink;
+    text-align: center;
+}
